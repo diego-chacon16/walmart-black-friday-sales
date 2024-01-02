@@ -1,1 +1,1 @@
-# walmart-black-friday-sales
+# Walmart: Black Friday Purchases 💰🛒
