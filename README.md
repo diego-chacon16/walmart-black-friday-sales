@@ -1,6 +1,6 @@
 # Walmart: Black Friday Purchases 💰🛒
 
-# Walmart Customer Purchase Behavior Odyssey
+## Walmart Customer Purchase Behavior Odyssey
 
 ## Embark on a Data-Driven Journey
 
