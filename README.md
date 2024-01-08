@@ -6,6 +6,10 @@
 
 Welcome to the immersive Walmart Customer Purchase Behavior Odyssey! This captivating expedition dives deep into the heart of Black Friday transactions at Walmart, unveiling the secrets behind customer spending habits. 
 
+## Notebook and Queries 💻
+
+This project will be done in both Python and SQL.
+
 ## Objectives
 
 __The key objectives of this analysis are:__
